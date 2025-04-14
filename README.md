@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tang Ha Nhut Nam</h1>
 <h3 align="center">I want to be a Full Stack Web Developer</h3>
 
-<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ5anZuZ3MwNmg2YjJ1YmJ6cnpkaDVxNDllaHhzc2dyY3F2ZmY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.webp"alt="tanghanhutnam" /> </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanghanhutnam&label=Profile%20views&color=0e75b6&style=flat" alt="tanghanhutnam" /> </p>
 
 <h2>About Me:</h2>

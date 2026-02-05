@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tang Ha Nhut Nam</h1>
-<h3 align="center">I want to be a Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanghanhutnam&label=Profile%20views&color=0e75b6&style=flat" alt="tanghanhutnam" /> </p>
 
 <h2>About Me:</h2>
 
-- 🔭 Currently I'm a 4th year student at **Can Tho University**
+- 🔭 Currently I am currently a Junior Front-end with +1 experience at WALA ICT.
 
 - 🌱 **Software Engineering**
 

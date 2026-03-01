@@ -5,7 +5,7 @@
 
 <h2>About Me:</h2>
 
-- 🔭 Currently I am currently a Junior Front-end with +1 experience at WALA ICT.
+- 🔭 Currently I am currently a Junior FullStack with +1 experience at WALA ICT.
 
 - 🌱 **Software Engineering**
 
